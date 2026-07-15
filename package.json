@@ -1,5 +1,6 @@
 {
   "name": "ffuentes-website",
+  "homepage": "https://ffuentes.me",
   "private": true,
   "version": "0.0.0",
   "type": "module",
