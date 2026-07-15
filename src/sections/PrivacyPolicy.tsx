@@ -1,6 +1,6 @@
 export const PrivacyPolicy = () => {
   return (
-    <body>
+    <>
       <h1>Privacy Policy — Pass Your PMP Exam</h1>
 
       <p>
@@ -224,6 +224,6 @@ export const PrivacyPolicy = () => {
           endorsed by PMI.
         </em>
       </p>
-    </body>
+    </>
   );
 };
